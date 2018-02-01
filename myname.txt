@@ -1,3 +1,4 @@
 Not a real name
 
 Line 3
+I like GUI interfaces, but for Git, I prefer GitKraken. I also don't like how SourceTree forces you to have an Atlassian account.
